@@ -1,0 +1,3 @@
+C:/Users/thoma/ikt103g23v/assignments/solutions/SuperMario-Project/cmake-build-debug/CMakeFiles/Eksamen_Mario.dir
+C:/Users/thoma/ikt103g23v/assignments/solutions/SuperMario-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thoma/ikt103g23v/assignments/solutions/SuperMario-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

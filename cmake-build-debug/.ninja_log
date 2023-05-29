@@ -1,0 +1,19 @@
+# ninja log v5
+2	1613	7055985677263609	CMakeFiles/Eksamen_Mario.dir/main.cpp.obj	3964fffc39029975
+9	105	7035220641577696	CMakeFiles/Eksamen_Mario.dir/object.cpp.obj	f23cb03d5fdd9114
+6	1102	7053238267288727	CMakeFiles/Eksamen_Mario.dir/pole.cpp.obj	3b443b0cd85d91d2
+8	995	7053227277736774	CMakeFiles/Eksamen_Mario.dir/castle.cpp.obj	5be26f2ef96deeea
+7	1140	7054203833123310	CMakeFiles/Eksamen_Mario.dir/bricks.cpp.obj	1bf834dc3b29874d
+1614	3089	7055985680110162	Eksamen_Mario.exe	93ff08911c9d390a
+6	889	7039684627773138	CMakeFiles/Eksamen_Mario.dir/entities.cpp.obj	2d97f3f1869c816a
+11	1936	7054931622396780	CMakeFiles/Eksamen_Mario.dir/goomba.cpp.obj	4b625a4cd28b07a
+10	1260	7054089234226951	CMakeFiles/Eksamen_Mario.dir/coin.cpp.obj	350f79639c8efe1c
+1	269	7070456074803381	CMakeFiles/Eksamen_Mario.dir/object.cpp.obj	74643eb93dd8373e
+11	841	7070456080514742	CMakeFiles/Eksamen_Mario.dir/entities.cpp.obj	3920e7da9c6220b7
+20	857	7070456080682132	CMakeFiles/Eksamen_Mario.dir/bricks.cpp.obj	f1c80431b672a990
+15	882	7070456080926047	CMakeFiles/Eksamen_Mario.dir/goomba.cpp.obj	b7366fbe0dbf99e4
+30	883	7070456080936038	CMakeFiles/Eksamen_Mario.dir/coin.cpp.obj	9f100b9c1c5ccdf2
+25	890	7070456081017274	CMakeFiles/Eksamen_Mario.dir/castle.cpp.obj	2c211c53f20b1808
+35	901	7070456081138536	CMakeFiles/Eksamen_Mario.dir/pole.cpp.obj	b2fc4e246a5e5155
+6	980	7070456081923403	CMakeFiles/Eksamen_Mario.dir/main.cpp.obj	49f33b70de068863
+980	2177	7070456085519520	Eksamen_Mario.exe	1b4a39f7a0d1b636
